@@ -1,0 +1,7 @@
+3 7
+num1:12 num2:20 result:0 0
+5 6 4 12
+9
+1 result 3 result
+1 6 12 6
+3 7
