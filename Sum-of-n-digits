@@ -1,0 +1,20 @@
+3 start
+addrs1:32
+length:5
+start:0 0 100
+7 addrs1 next_addrs
+
+
+loop:5 counter length if_yes
+9
+if_yes:1 100 next_addrs:0 100
+1 next_addrs one next_addrs
+1 counter one counter
+3 loop
+one:1
+counter:0
+5
+10
+15
+30
+30
